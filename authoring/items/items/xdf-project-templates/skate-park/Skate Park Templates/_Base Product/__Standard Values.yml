@@ -1,0 +1,51 @@
+﻿---
+ID: "194bee50-fb84-4b0e-a7b1-85ddf35a0e54"
+Parent: "2d44a327-4c4d-435d-beb2-2c8a9f1ed74a"
+Template: "2d44a327-4c4d-435d-beb2-2c8a9f1ed74a"
+Path: "/sitecore/templates/Project/skate-park/Skate Park Templates/_Base Product/__Standard Values"
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{47DEC9DE-BB91-44F7-AF1D-88A14C6E9ADC}"
+- ID: "d67fa118-6d90-4e36-a06e-072287eff1b7"
+  Hint: SKU
+  Value: $id
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0323b934-cec7-4cd8-a4cc-78dec2775e8d"
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "f54e0a59-0b83-4412-a052-bb8bcea8c1e2"
+  - ID: "e758b166-6789-440c-9d16-8fa4fda43efb"
+    Hint: Price
+    Value: $100
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251218T050117Z
+    - ID: "27e99b29-f2dc-42d1-b8b2-6128228aa1c6"
+      Hint: Highlights
+      Value: Whether you&rsquo;re a beginner or a pro, this will work well for you.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\niwamoto@tech.softbank.co.jp
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\niwamoto@tech.softbank.co.jp
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1f5239c7-e530-4c3f-921b-294a59870bb7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\niwamoto@tech.softbank.co.jp
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251218T071004Z

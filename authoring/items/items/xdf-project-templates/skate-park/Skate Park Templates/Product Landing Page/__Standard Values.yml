@@ -1,0 +1,30 @@
+﻿---
+ID: "41a222fb-d0fe-4f5d-ba20-950a94439979"
+Parent: "ce5fa35c-04ce-487d-946d-92c22346b0f8"
+Template: "ce5fa35c-04ce-487d-946d-92c22346b0f8"
+Path: "/sitecore/templates/Project/skate-park/Skate Park Templates/Product Landing Page/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{C498C887-39DB-43EE-A438-A9F604F5DF29}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "931362d7-68f4-402b-a59d-6fb0a2eae119"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251218T051137Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3b3f65dd-81de-4ae2-a70b-7b04a71eb0f4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\niwamoto@tech.softbank.co.jp
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251218T051244Z

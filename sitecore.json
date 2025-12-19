@@ -4,11 +4,11 @@
     "authoring/items/**/*.module.json"
   ],
   "plugins": [
-    "Sitecore.DevEx.Extensibility.Serialization@6.0.23",
     "Sitecore.DevEx.Extensibility.Publishing@6.0.23",
     "Sitecore.DevEx.Extensibility.Indexing@6.0.23",
     "Sitecore.DevEx.Extensibility.ResourcePackage@6.0.23",
-    "Sitecore.DevEx.Extensibility.XMCloud@1.1.120"
+    "Sitecore.DevEx.Extensibility.XMCloud@1.1.120",
+    "Sitecore.DevEx.Extensibility.Serialization@6.0.31"
   ],
   "serialization": {
     "defaultMaxRelativeItemPathLength": 100,
@@ -16,7 +16,8 @@
     "removeOrphansForRoles": true,
     "removeOrphansForUsers": true,
     "continueOnItemFailure": false,
-    "excludedFields": []
+    "excludedFields": [],
+    "progressiveMetadataPull": false
   },
   "settings": {
     "telemetryEnabled": false,

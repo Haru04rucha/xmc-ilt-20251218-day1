@@ -1,0 +1,65 @@
+﻿---
+ID: "95562c15-ddae-427b-a980-e622aa143120"
+Parent: "2fd530d4-b210-40e1-b0c9-6eb8681803fe"
+Template: "ce5fa35c-04ce-487d-946d-92c22346b0f8"
+Path: "/sitecore/content/skate-park/skate-park/Home/Inventory"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{B52BA35C-98C5-40A7-9315-DCFD24F17C22}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{38FD29DC-EAD4-4E87-8970-EA31189CA84F}"
+              p:before="*"
+              s:id="{1DEB067F-0BB1-405E-94F5-2ABB537A6160}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BB979FFF6-7F1A-4CF0-B23C-4955159DC8BD%7D&amp;Styles&amp;NavigationRoot&amp;LevelFrom=%7BA59325BB-5A27-46F9-8110-9D499715F3BE%7D&amp;LevelTo=%7BA59325BB-5A27-46F9-8110-9D499715F3BE%7D&amp;Filter&amp;Flattened&amp;AddRoot&amp;SerializerFieldNames&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="headless-main" />
+            <r
+              uid="{70CFF616-33E1-4F3A-8A39-E3681236CA87}"
+              p:after="r[@uid='{38FD29DC-EAD4-4E87-8970-EA31189CA84F}']"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B81225C08-5783-4BED-A86A-AB2B87198885%7D%7C%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;ColumnWidth2=%7B81225C08-5783-4BED-A86A-AB2B87198885%7D%7C%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="headless-main" />
+            <r
+              uid="{0E5CFB8B-2AC5-488A-A69D-35DD67A86378}"
+              p:after="*[1=2]"
+              s:ds="e13854ed-6e62-4ab5-af71-3ed5d9f1204e"
+              s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BF161A9CD-1B88-45B5-97A8-0E863F71E348%7D&amp;Styles=%7C%7BCFE42796-D329-4D01-A45C-0A07ACE02A26%7D%7C%7B2EE8EC8B-F479-435A-A418-A22358EEB4B9%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/column-2-2" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251218T052843Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Inventory
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "46aa177d-dd0c-43e1-8cb9-81fcf93b9872"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\niwamoto@tech.softbank.co.jp
+    - ID: "c93d9f81-2d06-48ee-b9ed-ef3113c25ce6"
+      Hint: Title
+      Value: Inventory
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251218T061128Z

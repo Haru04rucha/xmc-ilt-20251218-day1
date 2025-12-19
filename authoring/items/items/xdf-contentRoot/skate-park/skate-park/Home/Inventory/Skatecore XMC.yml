@@ -1,0 +1,46 @@
+﻿---
+ID: "21e9f8fe-f449-4406-ba7d-b102aa3dd0b6"
+Parent: "95562c15-ddae-427b-a980-e622aa143120"
+Template: "c498c887-39db-43ee-a438-a9f604f5df29"
+Path: "/sitecore/content/skate-park/skate-park/Home/Inventory/Skatecore XMC"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{BCEBDAF0-39DB-4AEB-AF57-645685574865}" />
+- ID: "d67fa118-6d90-4e36-a06e-072287eff1b7"
+  Hint: SKU
+  Value: "{21E9F8FE-F449-4406-BA7D-B102AA3DD0B6}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "7a7608c1-59e6-4b62-92f5-7a65a2e60ee8"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251218T052950Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Skatecore XMC
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "006571e0-f85c-4e88-8d24-7ea89bfe70df"
+    - ID: "9ecf91ea-a3af-4631-a7b4-d74112236e57"
+      Hint: Content
+      Value: |
+        <p style="margin: 0in;">Looking for a skateboard that can keep up with your shredding skills? The Skatecore XMC is here to take your skating to the next level.<span>&nbsp; </span>Whether you're hitting the skatepark or cruising the streets, the Skatecore XMC is the perfect board for you.</p>
+        <p style="margin: 0in;">&nbsp;</p>
+        <p style="margin: 0in;">Ready to take your skating to the next level? Order your Skatecore XMC today!</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\niwamoto@tech.softbank.co.jp
+    - ID: "c93d9f81-2d06-48ee-b9ed-ef3113c25ce6"
+      Hint: Title
+      Value: Skatecore XMC
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251218T052950Z

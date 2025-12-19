@@ -1,0 +1,47 @@
+﻿---
+ID: "2fe285a1-0fda-41f4-ba47-f6576b57de44"
+Parent: "d2e0cec4-c071-4fc6-a2ca-7d483f7094e4"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/tac/events/Presentation/Available Renderings/MyModule
+BranchID: "5bd19139-4358-465d-b913-ddbe7208ae85"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {B2872546-82C4-4540-A7AE-CB407DA766C4}
+    {8104A36E-D6D4-4546-BEBE-E9AC2687EAB8}
+    {5285B975-243F-49FC-8803-6E618EE674E9}
+    {7AB4A223-58F8-4ED4-9B64-D93E44E20E45}
+    {DFE2BF4E-6723-43E1-A7AE-136B1D938EE9}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "98666b18-4f12-4814-8049-d626d2b18a76"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{17C0C33E-E916-492D-9A7C-6A60BB563677}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251219T051849Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\niwamoto@tech.softbank.co.jp
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\niwamoto@tech.softbank.co.jp
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f29d2930-a547-4819-8155-693d20faa694"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\niwamoto@tech.softbank.co.jp
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251219T083855Z

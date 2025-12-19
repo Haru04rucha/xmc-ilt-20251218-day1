@@ -1,0 +1,46 @@
+﻿---
+ID: "5522d7fd-ac90-4ea7-8c38-6ce1b1c6da41"
+Parent: "95562c15-ddae-427b-a980-e622aa143120"
+Template: "c498c887-39db-43ee-a438-a9f604f5df29"
+Path: "/sitecore/content/skate-park/skate-park/Home/Inventory/SteveyT 1000X"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{0BA35E91-8F71-467E-9FAB-5974CCF7D045}" />
+- ID: "d67fa118-6d90-4e36-a06e-072287eff1b7"
+  Hint: SKU
+  Value: "{5522D7FD-AC90-4EA7-8C38-6CE1B1C6DA41}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "9e5a487a-a807-4135-90cc-1e832026d00a"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251218T053026Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: SteveyT 1000X
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a79c92a5-2458-4856-8e8f-3eba795a6417"
+    - ID: "9ecf91ea-a3af-4631-a7b4-d74112236e57"
+      Hint: Content
+      Value: |
+        <p style="margin: 0in;">Looking for a skateboard that can keep up with your shredding skills? The SteveyT 1000X is here to take your skating to the next level.<span>&nbsp; </span>Whether you're hitting the skatepark or cruising the streets, the SteveyT 1000X is the perfect board for you.</p>
+        <p style="margin: 0in;">&nbsp;</p>
+        <p style="margin: 0in;">Ready to take your skating to the next level? Order your SteveyT 1000X today!</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\niwamoto@tech.softbank.co.jp
+    - ID: "c93d9f81-2d06-48ee-b9ed-ef3113c25ce6"
+      Hint: Title
+      Value: SteveyT 1000X
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251218T053026Z
