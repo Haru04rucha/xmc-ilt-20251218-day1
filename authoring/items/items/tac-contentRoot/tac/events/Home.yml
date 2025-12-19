@@ -47,7 +47,7 @@ Languages:
               p:after="*[1=2]"
               s:ds="f202d316-9843-4b83-b54d-241a95b39c31"
               s:id="{DFE2BF4E-6723-43E1-A7AE-136B1D938EE9}"
-              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B42156FA5-F895-40DF-B45C-6A2ACE5980F8%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
               s:ph="/headless-main/sxa-standardcontent/container-2/column-2-1" />
           </d>
         </r>
@@ -70,11 +70,11 @@ Languages:
       Value: events
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "52ba28ca-d811-4728-a773-ae86b9ffece5"
+      Value: "262d26b9-859c-42bd-9938-ee6868830ee6"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\niwamoto@tech.softbank.co.jp
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20251219T085053Z
+      Value: 20251219T092147Z
